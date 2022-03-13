@@ -14,6 +14,7 @@ bread: 4
 cheese: 2
 ham: 1
 bread: 1
+
 statistics
 
 Output
